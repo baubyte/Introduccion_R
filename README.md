@@ -16,7 +16,7 @@
         * [Proyecto](./Clase_2/Proyecto_de_Trabajo_R.html)
     * Ejercicios
         * [Ejercicio 1](./Clase_2/Ejercicio_1/docs/README.md)
-2.  [Clase 3](./Clase_3/)
+3.  [Clase 3](./Clase_3/)
     * Apuntes
         * [Capitulo 1](./Clase_3/Capitulo_1_Bases_de_Datos.html)
         * [Capitulo 2](./Clase_3/Capitulo_2_Procesando_Datos_con_tidyverse_Parte_I.html)
@@ -24,3 +24,10 @@
             * [Práctica](./Clase_3/Tidyverse/)
     * Ejercicios
         * [Ejercicio](./Clase_3/Ejercicio/docs/Consigna.html)
+4.  [Clase 4](./Clase_4/)
+    * Apuntes
+        * [Contenido](./Clase_4/Contenido_Procesando_Datos_con_Tidyverse_Parte-II.html)
+        * [Presentación](./Clase_4/Presentacion_Procesando_Datos_con_Tidyverse_Parte_II.html)
+            * [Práctica](./Clase_4/Tidyverse/)
+    * Ejercicios
+        * [Ejercicio](./Clase_4/Ejercicio/docs/README.md)
