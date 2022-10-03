@@ -31,3 +31,10 @@
             * [Práctica](./Clase_4/Tidyverse/)
     * Ejercicios
         * [Ejercicio](./Clase_4/Ejercicio/docs/README.md)
+5.  [Clase 5](./Clase_5/)
+    * Apuntes
+        * [Contenido](./Clase_5/Visualizacion_de_Datos_Parte_I.html)
+        * [Presentación](./Clase_5/Presentacion_Visualizacion_con_ggplot2.html)
+            * [Práctica](./Clase_5/Ggplot2/)
+    * Ejercicios
+        * [Ejercicio](./Clase_5/Ejercicio/docs/Consigna.html)
