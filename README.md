@@ -38,3 +38,20 @@
             * [Práctica](./Clase_5/Ggplot2/)
     * Ejercicios
         * [Ejercicio](./Clase_5/Ejercicio/docs/Consigna.html)
+
+6.  [Clase 6](./Clase_6/)
+    * Apuntes
+        * [Contenido](./Clase_6/Contenido_Visualizacion_de_Datos_Parte_II.html)
+            * [Práctica](./Clase_6/Ggplot2/)
+    * Ejercicios
+        * [Ejercicio](./Clase_6/Ejercicio/docs/Consigna.html)
+
+7.  [Clase 7](./Clase_7/)
+    * Apuntes
+        * [Contenido Estructuras](./Clase_7/Contenido_Capitulo_1_Estructuras_Condicionales.html)
+        * [Contenido Funciones](./Clase_7/Contenido_Capitulo_2_Funciones_Propias.html)
+        * [Contenido Loops](./Clase_7/Contenido_Capitulo_3_Loops.html)
+        * [Contenido Rmarkdown](./Clase_7/Diapositiva_Rmarkdown.html)
+            * [Práctica](./Clase_7/Intermedio/)
+    * Ejercicios
+        * [Ejercicio](./Clase_7/Ejercicio/docs/README.md)
